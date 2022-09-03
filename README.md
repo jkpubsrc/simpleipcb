@@ -10,7 +10,7 @@ Communication is performed by exchanging data frames over pipes. Processes attac
 
 Information about this module can be found here:
 
-* [github.org](https://github.com/jkpubsrc/simpleipcb)
+* [github.com](https://github.com/jkpubsrc/simpleipcb)
 
 Performance
 -----------
